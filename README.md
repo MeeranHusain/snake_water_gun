@@ -19,7 +19,6 @@ This project is a Snake Water Gun game built using JavaScript. In this game, the
 - Random choice generation by the computer.
 - Player inputs their choice from three options: Snake, Water, or Gun.
 - Game logic compares the player’s choice with the computer’s to determine the winner.
-- Basic UI to enhance user interaction.
   
 ## Installation
 
