@@ -8,8 +8,6 @@ A simple JavaScript-based game where the player guesses the same choice (Snake, 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## About
 
